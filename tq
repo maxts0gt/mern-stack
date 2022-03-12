@@ -1,0 +1,65 @@
+[33mcommit 435b9fe573cf6ea77c6370caf794c83b3a5eba7e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Sat Mar 12 22:10:02 2022 +0900
+
+    refactor and styles
+
+[33mcommit 342453826732ba7e488791da2a2a2c2b6dc11e5b[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Sat Mar 12 22:04:04 2022 +0900
+
+    frontend initial setup
+
+[33mcommit 4ab4b8770c003f15b24bf5a88f68f2c8a6b7e386[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Sat Mar 12 17:44:37 2022 +0900
+
+    protect routes and add authentication
+
+[33mcommit acb1978ce3101ccc1aebf73c2dd8eb36523bff93[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Sat Mar 12 17:10:25 2022 +0900
+
+    add login and create JWT
+
+[33mcommit 821b72245bd4bf890c3ddcf9f48b5a0f51ea7f2a[m
+Author: maxts0gt <bazarsadtsogtjargal@gmail.com>
+Date:   Wed Mar 2 23:59:26 2022 +0900
+
+    add modules for mongo
+
+[33mcommit 79218bb7431c8ded6bd04b5cef3a23972e369ae9[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Fri Feb 25 00:27:27 2022 +0900
+
+    connect to database
+
+[33mcommit 36f1397f0cb2cd8588d81c8ff218ea834e1e1b1b[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Fri Feb 25 00:05:39 2022 +0900
+
+    install dependencies
+
+[33mcommit cb8f1bea4fa3d01e43dcfc74198eb9f2f84eed4e[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Fri Feb 25 00:00:01 2022 +0900
+
+    error handling
+
+[33mcommit 474950ec359d6bdd70c0187f69e0086070e755d0[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Thu Feb 24 23:42:06 2022 +0900
+
+    add routes and controllers
+
+[33mcommit 871ff235d69c0d8e437970bb39324ec5d1a3c25a[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Thu Feb 24 23:31:00 2022 +0900
+
+    setup express js
+
+[33mcommit 994dbb0f2bd034ceade3cc62329aff9ec6a286f8[m
+Author: max-tsogt <max@maxtsogt.com>
+Date:   Wed Feb 23 23:54:49 2022 +0900
+
+    initial setup
