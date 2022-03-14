@@ -21,6 +21,16 @@ function Header() {
         <Link to='/'>Support Desk</Link>
       </div>
       <ul>
+        <li>
+          <Link to='/login'>
+            <FaSignInAlt /> Login
+          </Link>
+        </li>
+        <li>
+          <Link to='/register'>
+            <FaUser /> Register
+          </Link>
+        </li>
         {user ? (
           <li>
             <button className='btn' onClick={onLogout}>
